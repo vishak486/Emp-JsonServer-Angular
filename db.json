@@ -1,0 +1,32 @@
+{
+  "userDetails": [
+    {
+      "username": "Dean Winchester",
+      "email": "dean@gmail.com",
+      "age": 22,
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "username": "Sam Winchester",
+      "email": "sam@gmail.com",
+      "age": 21,
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "username": "John Winchester",
+      "email": "john@gmail.com",
+      "age": 45,
+      "status": "Inactive",
+      "id": 3
+    },
+    {
+      "username": "Mary Winchester",
+      "email": "mary@gmail.com",
+      "age": 40,
+      "status": "Inactive",
+      "id": 4
+    }
+  ]
+}
